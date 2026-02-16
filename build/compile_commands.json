@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/aduc841.dir/src/main.c.o -c /Users/eralpcelebi/Sources/aduc841/src/main.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/src/main.c",
+  "output": "CMakeFiles/aduc841.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/aduc841.dir/src/aduc841.c.o -c /Users/eralpcelebi/Sources/aduc841/src/aduc841.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/src/aduc841.c",
+  "output": "CMakeFiles/aduc841.dir/src/aduc841.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_div.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_div.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_div.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_div.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_jmp.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_jmp.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_jmp.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_jmp.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_lcall.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_lcall.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_lcall.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_lcall.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_ljmp.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_ljmp.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_ljmp.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_ljmp.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_mul.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_mul.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_mul.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_mul.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_nop.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_nop.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_nop.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_nop.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_pop.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_pop.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_pop.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_pop.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_push.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_push.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_push.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_push.c.o"
+},
+{
+  "directory": "/Users/eralpcelebi/Sources/aduc841/build/modules",
+  "command": "/usr/bin/clang  -I/Users/eralpcelebi/Sources/aduc841/include -g -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/Dispatch_Modules.dir/instr_ret.c.o -c /Users/eralpcelebi/Sources/aduc841/modules/instr_ret.c",
+  "file": "/Users/eralpcelebi/Sources/aduc841/modules/instr_ret.c",
+  "output": "modules/CMakeFiles/Dispatch_Modules.dir/instr_ret.c.o"
+}
+]

@@ -1,0 +1,23 @@
+ASxxxx Assembler V02.00 + NoICE + SDCC mods  (Intel 8051)               Page 1
+Hexadecimal [24-Bits]
+
+
+
+                                      1 .module boot
+                                      2 
+                                      3 .area INTV (ABS)
+      000000                          4 .org 0x0000
+      000000                          5 _int_reset:
+      000000 12 00 90         [24]    6 	LCALL main
+      000003 84               [48]    7     DIV AB
+      000004 00               [12]    8     NOP
+      000005 00               [12]    9     NOP
+      000006 00               [12]   10     NOP
+      000007 02 00 00         [24]   11     LJMP _int_reset
+                                     12 
+                                     13 .area CSEG (ABS, CODE)
+      000090                         14 .org 0x0090
+      000090                         15 main:
+      000090 A4               [48]   16     MUL AB
+      000091 84               [48]   17     DIV AB
+      000092 22               [24]   18     RET
