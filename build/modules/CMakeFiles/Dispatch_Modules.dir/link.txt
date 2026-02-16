@@ -1,2 +1,0 @@
-/usr/bin/ar qc libDispatch_Modules.a CMakeFiles/Dispatch_Modules.dir/instr_div.c.o CMakeFiles/Dispatch_Modules.dir/instr_jmp.c.o CMakeFiles/Dispatch_Modules.dir/instr_lcall.c.o CMakeFiles/Dispatch_Modules.dir/instr_ljmp.c.o CMakeFiles/Dispatch_Modules.dir/instr_mul.c.o CMakeFiles/Dispatch_Modules.dir/instr_nop.c.o CMakeFiles/Dispatch_Modules.dir/instr_pop.c.o CMakeFiles/Dispatch_Modules.dir/instr_push.c.o CMakeFiles/Dispatch_Modules.dir/instr_ret.c.o
-/usr/bin/ranlib libDispatch_Modules.a

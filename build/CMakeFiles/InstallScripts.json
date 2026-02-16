@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/eralpcelebi/Sources/aduc841/build/cmake_install.cmake",
-		"/Users/eralpcelebi/Sources/aduc841/build/modules/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

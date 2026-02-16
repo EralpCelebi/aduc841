@@ -1,1 +1,0 @@
-/usr/bin/clang -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/aduc841.dir/src/main.c.o CMakeFiles/aduc841.dir/src/aduc841.c.o -o aduc841  modules/libDispatch_Modules.a
